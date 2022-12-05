@@ -34,9 +34,9 @@ static function array<X2DataTemplate> CreateTemplates()
 	local array<X2DataTemplate> Templates;
 	
 	Templates.AddItem(OneForAll());
-	Templates.AddItem(BallisticShield('TemplarBallisticShield_CV', default.SHIELD_POINTS_CV));
-	Templates.AddItem(BallisticShield('TemplarBallisticShield_MG', default.SHIELD_POINTS_MG));
-	Templates.AddItem(BallisticShield('TemplarBallisticShield_BM', default.SHIELD_POINTS_BM));
+	// Templates.AddItem(BallisticShield('TemplarBallisticShield_CV', default.SHIELD_POINTS_CV));
+	// Templates.AddItem(BallisticShield('TemplarBallisticShield_MG', default.SHIELD_POINTS_MG));
+	// Templates.AddItem(BallisticShield('TemplarBallisticShield_BM', default.SHIELD_POINTS_BM));
 	Templates.AddItem(GreaterPadding('GreaterPadding_CV', default.GREATER_PADDING_CV));
 	Templates.AddItem(GreaterPadding('GreaterPadding_MG', default.GREATER_PADDING_MG));
 	Templates.AddItem(GreaterPadding('GreaterPadding_BM', default.GREATER_PADDING_BM));
