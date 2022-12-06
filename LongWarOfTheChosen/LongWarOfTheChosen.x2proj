@@ -1190,7 +1190,7 @@
     <Content Include="Src\LW_WeaponsAndArmor\Classes\X2Item_FactionWeapons.uc" />
     <Content Include="Src\LW_WeaponsAndArmor\Classes\X2Item_PurifierWeapons.uc" />
     <Content Include="Src\LW_WeaponsAndArmor\Classes\X2Item_SecondaryThrowingKnives.uc" />
-    <Content Include="Src\LW_WeaponsAndArmor\Classes\X2Item_Shields_LW.uc" />
+    <!-- <Content Include="Src\LW_WeaponsAndArmor\Classes\X2Item_Shields_LW.uc" /> -->
     <Content Include="Src\LW_WeaponsAndArmor\Classes\X2TargetingMethod_ThrowingKnife.uc" />
     <Content Include="Content\FX_Explosion_Rocket_Launcher.upk" />
     <Content Include="Content\FX_Heavy_Blaster_Launcher.upk" />
